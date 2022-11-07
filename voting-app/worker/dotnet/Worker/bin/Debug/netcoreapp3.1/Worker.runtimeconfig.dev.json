@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\munis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\munis\\.nuget\\packages"
+    ]
+  }
+}
