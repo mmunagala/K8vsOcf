@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: voting-app
-        image: kodekloud/examplevotingapp_vote:v1
+        image: codersaddiction/ocf-eks-voting-app-vote:v1
         ports:
         - containerPort: 80
 

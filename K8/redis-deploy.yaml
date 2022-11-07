@@ -21,6 +21,6 @@ spec:
     spec:
       containers:
       - name: redis
-        image: redis
+        image: codersaddiction/ocf-eks-voting-app-redis:v1
         ports:
         - containerPort: 6379
